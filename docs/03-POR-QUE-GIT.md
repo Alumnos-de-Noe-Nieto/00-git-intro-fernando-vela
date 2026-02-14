@@ -98,27 +98,31 @@ La diferencia: Google Docs es automático (no controlas), Git es manual (CONTROL
 
 ### Checkpoint 1: Tu Proyecto Escolar ✅
 
-- [ ] Leo: "Caso 1: Tu Proyecto Escolar"
-- [ ] **Verificación:** Imagina que trabajas en equipo sin Git. ¿Qué pasaría?
+- [x] Leo: "Caso 1: Tu Proyecto Escolar"
+- [x] **Verificación:** Imagina que trabajas en equipo sin Git. ¿Qué pasaría?
   - Escribe mentalmente 1-2 problemas que ocurrirían
+  - **problema1** Alguien podría borrar accidentalmente el código de un compañero al intentar actualizar el archivo manualmente
+  -**problema2** Sería imposible saber quién escribió cada parte, facilitando que alguien no trabaje
   - Ahora piensa: "Con Git, ¿cómo lo resolvería?"
-- [ ] Si entendiste la diferencia → ✅ Marca este checkpoint
+  - **Solución con Git:** Cada cambio queda registrado con nombre y fecha, y Git nos avisa si hay un conflicto antes de borrar nada
+- [x] Si entendiste la diferencia → ✅ Marca este checkpoint
 
 ### Checkpoint 2: Empresas Reales ✅
 
-- [ ] Leo: "Caso 2: Empresas Reales"
-- [ ] **Verificación:** Responde:
+- [x] Leo: "Caso 2: Empresas Reales"
+- [x] **Verificación:** Responde:
   - "¿Por qué Netflix NECESITA Git si tiene miles de ingenieros?"
   - **Respuesta:** "Porque sin Git sería imposible coordinar 1000s de cambios"
-- [ ] Si entendiste → ✅ Marca este checkpoint
+- [x] Si entendiste → ✅ Marca este checkpoint
 
 ### Checkpoint 3: Git vs Google Docs ✅
 
-- [ ] Leo: "Analogía: Git es como Google Docs"
-- [ ] **Verificación:** ¿Cuál es la DIFERENCIA CLAVE?
+- [x] Leo: "Analogía: Git es como Google Docs"
+- [x] **Verificación:** ¿Cuál es la DIFERENCIA CLAVE?
+- **Respuesta:** La diferencia principal es el **CONTROL**. Mientras que Google Docs guarda y sincroniza cada letra de forma automática e inmediata, en Git la sincronización es manual y deliberada, esto permite que el programador trabaje en privado, revise su código y solo cuando esté seguro, cree un "punto de guardado" (commit) y lo comparta (push) con el equipo
   - **Google Docs:** Cambios se sincronizan automáticamente
   - **Git:** TÚ controlas cuándo compartir (push)
-- [ ] Si distinguiste las diferencias → ✅ Marca este checkpoint
+- [x] Si distinguiste las diferencias → ✅ Marca este checkpoint
 
 ---
 
